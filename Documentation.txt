@@ -1,0 +1,26 @@
+0.0.001 
+===============================================================================
+(Phase I)
+-------------------------------------------------------------------------------
+In dieser Phase muss die Grundidee der Geschicht, Biom mäßig umgesetzt werden.
+Das heißt es müssen die Biome so eingestellt werden das dort überall Schnee
+liegt und das es keine Vegitation mehr gibt (Bäume, Blumen, Sträucher)
+Falls es auch Biome geben soll, die eigentlich andere thematiken haben wie
+z.B. Wüsten dann müssen diese auch darauf angelegt werden.
+-------------------------------------------------------------------------------
+	Mods hinzugefügt:
+	
+		+ Forge - 10.13.4.1614
+		+ Biomes O' Plenty - 2.1.0.1889
+		+ Climate Control - 0.8.2
+		+ CodeChickenCore - 1.0.7.47
+		+ GregTech - 5.09.32
+		+ IndustrialCraft 2 - 2.2.828a
+		+ INpureCore - 1.0.0B9-62
+		+ NEI Integration - 1.1.2
+		+ NotEnoughItems - 1.0.5.120
+		+ Snowfall - 2.2.2
+		+ Better Questing - 2.0.233
+		+ Better Questing - Quest Book - 2.1.0
+		+ Loot++ - 0.24
+		+ Block Properties - 0.1.5
